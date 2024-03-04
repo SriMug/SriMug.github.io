@@ -45,6 +45,7 @@ body {
   h2 a:hover {
     text-decoration: underline; /* Add underline on hover */
   }
+  
   .progress {
     font-weight: bold;
     font-size: 18px;
